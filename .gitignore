@@ -1,0 +1,10 @@
+
+*.mp4
+data/MDN/U3_f/genotype_dict.npy
+*.pkl
+*.npy
+data/SS01540/U3_f/200206/155929_s3a9_p3-4/.DS_Store
+data/SS01540/U3_f/200206/110645_s3a6_p3-4/.DS_Store
+data/SS01540/U3_f/200206/.DS_Store
+data/SS01540/U3_f/.DS_Store
+data/SS01540/.DS_Store
